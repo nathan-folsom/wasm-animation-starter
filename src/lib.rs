@@ -1,20 +1,8 @@
 use crate::constants::*;
-use crate::math::*;
-use std::collections::VecDeque;
-use std::f64::consts::PI;
 use wasm_bindgen::prelude::*;
 use web_sys::CanvasRenderingContext2d;
 
 mod constants;
-mod math;
-
-// When the `wee_alloc` feature is enabled, this uses `wee_alloc` as the global
-// allocator.
-//
-// If you don't want to use `wee_alloc`, you can safely delete this.
-#[cfg(feature = "wee_alloc")]
-#[global_allocator]
-static ALLOC: wee_alloc::WeeAlloc = wee_alloc::WeeAlloc::INIT;
 
 #[wasm_bindgen(start)]
 pub fn main_js() -> Result<(), JsValue> {
@@ -27,12 +15,12 @@ pub fn main_js() -> Result<(), JsValue> {
 }
 
 #[wasm_bindgen]
-pub struct FieldRenderer {
+pub struct Renderer {
     frame_count: i32,
 }
 
 #[wasm_bindgen]
-impl FieldRenderer {
+impl Renderer {
     #[wasm_bindgen(constructor)]
     pub fn js_constructor() -> Self {
         Self { frame_count: 0 }
