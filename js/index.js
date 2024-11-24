@@ -1,10 +1,12 @@
 const CANVAS_SIZE = 3100;
 
-import("../pkg/index.js").then(({ FieldRenderer }) => {
+import("../pkg/index.js").then(({ Renderer }) => {
+  // Main canvas to draw on
   const ctx = getCanvasContext("art");
+  // Overlay canvas to show extra "stuff" for debugging purposes
   const overlayCtx = getCanvasContext("overlay");
 
-  const renderer = new FieldRenderer();
+  const renderer = new Renderer();
   renderer.init(ctx);
 
   const frameCounter = document.getElementById("frame-counter");
