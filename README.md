@@ -1,3 +1,7 @@
+# WASM Animation Starter
+
+This is a template for creating wasm animations in the browser using rust.
+
 ## How to install
 
 ```sh
