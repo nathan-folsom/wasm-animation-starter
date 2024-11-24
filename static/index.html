@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Rotors</title>
+  <link href="style.css" rel="stylesheet" />
+</head>
+
+<body>
+  <div class="upper">
+    <div class="left">
+      <canvas class="artboard" id="art"></canvas>
+      <canvas class="artboard" id="overlay"></canvas>
+      <div class="controls master">
+        <div class="controls">
+          <button id="pause-play">Pause</button>
+          <button id="capture">[ o ']</button>
+          <button id="overlay-show-hide">&lt;o&gt;</button>
+        </div>
+        <div class="controls">
+          <div id="frame-counter"></div>
+          <div id="frame-rate"></div>
+        </div>
+      </div>
+    </div>
+    <div class="right">
+      <h3>Rotors</h3>
+      <p>Rotors is a simulation of a combination of rods and spinning discs, connected at various
+        points, with a pen at the end that draws on a piece of paper. To get an idea of what's
+        going on, you can enable the 'overlay' which will show the rods and discs.</p>
+      <div class="tabs"></div>
+      <div class="config"></div>
+    </div>
+  </div>
+  <div class="lower">
+  </div>
+  <script src="index.js"></script>
+</body>
+
+</html>

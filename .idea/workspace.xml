@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a93ed3a1-204d-4332-a192-464e32aa119a" name="Changes" comment="increase canvas resolution">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/math.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="jdtgzpsf" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2VxyQdq4R4C3QNj8AKCwmh43soK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/n8folsom/code/vectart&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspection/Users/n8folsom/code/rotors/src/lib.rs&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  }
+}</component>
+  <component name="RsExternalLinterProjectSettings">
+    <option name="runOnTheFly" value="true" />
+    <option name="tool" value="Clippy" />
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="RustfmtProjectSettings">
+    <option name="runRustfmtOnSave" value="true" />
+    <option name="useRustfmt" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a93ed3a1-204d-4332-a192-464e32aa119a" name="Changes" comment="" />
+      <created>1695792010156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695792010156</updated>
+      <workItem from="1695792011257" duration="1965000" />
+      <workItem from="1695793988223" duration="24075000" />
+      <workItem from="1696399198922" duration="3263000" />
+      <workItem from="1696914423142" duration="204000" />
+      <workItem from="1696914637178" duration="20299000" />
+    </task>
+    <task id="LOCAL-00001" summary="it's alive">
+      <option name="closed" value="true" />
+      <created>1695967017978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695967017978</updated>
+    </task>
+    <task id="LOCAL-00002" summary="some more interesting shapes">
+      <option name="closed" value="true" />
+      <created>1695972569305</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695972569305</updated>
+    </task>
+    <task id="LOCAL-00003" summary="small adjustments">
+      <option name="closed" value="true" />
+      <created>1695973798917</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695973798917</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pause/play button">
+      <option name="closed" value="true" />
+      <created>1696399774430</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696399774430</updated>
+    </task>
+    <task id="LOCAL-00005" summary="capture image button">
+      <option name="closed" value="true" />
+      <created>1696400860068</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696400860068</updated>
+    </task>
+    <task id="LOCAL-00006" summary="capture image button">
+      <option name="closed" value="true" />
+      <created>1696401121972</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696401121972</updated>
+    </task>
+    <task id="LOCAL-00007" summary="give canvas a white background initially">
+      <option name="closed" value="true" />
+      <created>1696401265803</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696401265803</updated>
+    </task>
+    <task id="LOCAL-00008" summary="background color">
+      <option name="closed" value="true" />
+      <created>1696401326521</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696401326521</updated>
+    </task>
+    <task id="LOCAL-00009" summary="cleanup particle iteration code">
+      <option name="closed" value="true" />
+      <created>1696401606531</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696401606531</updated>
+    </task>
+    <task id="LOCAL-00010" summary="intersections!">
+      <option name="closed" value="true" />
+      <created>1696917962004</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696917962004</updated>
+    </task>
+    <task id="LOCAL-00011" summary="trace a line">
+      <option name="closed" value="true" />
+      <created>1696996405610</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696996405610</updated>
+    </task>
+    <task id="LOCAL-00012" summary="multiple iterations per frame">
+      <option name="closed" value="true" />
+      <created>1696998103429</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696998103429</updated>
+    </task>
+    <task id="LOCAL-00013" summary="draw overlay">
+      <option name="closed" value="true" />
+      <created>1696999398941</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696999398941</updated>
+    </task>
+    <task id="LOCAL-00014" summary="rotate around center of screen">
+      <option name="closed" value="true" />
+      <created>1697005105928</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1697005105928</updated>
+    </task>
+    <task id="LOCAL-00015" summary="reenable play/overlay by default">
+      <option name="closed" value="true" />
+      <created>1697042299002</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1697042299002</updated>
+    </task>
+    <task id="LOCAL-00016" summary="increase canvas resolution">
+      <option name="closed" value="true" />
+      <created>1697256631227</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1697256631227</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="it's alive" />
+    <MESSAGE value="some more interesting shapes" />
+    <MESSAGE value="small adjustments" />
+    <MESSAGE value="pause/play button" />
+    <MESSAGE value="capture image button" />
+    <MESSAGE value="give canvas a white background initially" />
+    <MESSAGE value="background color" />
+    <MESSAGE value="cleanup particle iteration code" />
+    <MESSAGE value="intersections!" />
+    <MESSAGE value="trace a line" />
+    <MESSAGE value="multiple iterations per frame" />
+    <MESSAGE value="draw overlay" />
+    <MESSAGE value="rotate around center of screen" />
+    <MESSAGE value="reenable play/overlay by default" />
+    <MESSAGE value="increase canvas resolution" />
+    <option name="LAST_COMMIT_MESSAGE" value="increase canvas resolution" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
